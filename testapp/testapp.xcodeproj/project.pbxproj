@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC9FD7FD2C99EA11006EE5F5 /* song.m4a in Resources */ = {isa = PBXBuildFile; fileRef = BC9FD7FC2C99EA11006EE5F5 /* song.m4a */; };
 		BCC5E2D32C934CE700AE5DF6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC5E2D22C934CE700AE5DF6 /* AppDelegate.swift */; };
 		BCC5E2D52C934CE700AE5DF6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC5E2D42C934CE700AE5DF6 /* SceneDelegate.swift */; };
 		BCC5E2D72C934CE700AE5DF6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC5E2D62C934CE700AE5DF6 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BC9FD7FC2C99EA11006EE5F5 /* song.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = song.m4a; sourceTree = "<group>"; };
 		BCC5E2CF2C934CE700AE5DF6 /* testapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCC5E2D22C934CE700AE5DF6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BCC5E2D42C934CE700AE5DF6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 		BCC5E2D12C934CE700AE5DF6 /* testapp */ = {
 			isa = PBXGroup;
 			children = (
+				BC9FD7FC2C99EA11006EE5F5 /* song.m4a */,
 				BCC5E2D22C934CE700AE5DF6 /* AppDelegate.swift */,
 				BCC5E2D42C934CE700AE5DF6 /* SceneDelegate.swift */,
 				BCC5E2D62C934CE700AE5DF6 /* ViewController.swift */,
@@ -137,6 +140,7 @@
 				BCC5E2DC2C934CE700AE5DF6 /* Assets.xcassets in Resources */,
 				BCC5E2DF2C934CE700AE5DF6 /* Base in Resources */,
 				BCC5E2DA2C934CE700AE5DF6 /* Base in Resources */,
+				BC9FD7FD2C99EA11006EE5F5 /* song.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
